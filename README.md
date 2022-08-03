@@ -1,6 +1,6 @@
 # Yale Wet Lab Protocols
 
-This is a repository for `Summer'19 - Yale Wet Lab Protocols`. 
+This is a repository for `YSM Gunel Lab - Wet Lab Protocols`. 
 
 ## Prepared by:
 
