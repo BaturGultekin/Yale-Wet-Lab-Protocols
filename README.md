@@ -43,25 +43,38 @@ Prepare 100 μl DNA Isolation Mix:
 - 88 μl of nucleas-free water (non-DEPC-Treated)
 - 10 μl of Kappa DNA Isolation Buffer
 - 2 μl of Kappa DNA Isolation Enzyme
-- Add the mix to 96 well plate which contains the tissue
-- Run in the PCR machine. 
+
+Add 100 μl of DNA Isolation mix to 96 well plate which contains the tissue
+- Seal and mark the plate
+- Run in the PCR machine
 
 __________
 
 ### PCR 1x
 
 Prepare 22 μl PCR Mix:
-- 12.5 μl of Kappa PCR Enzyme
+- 7 μl of nucleas-free water (non-DEPC-Treated)
 - 1.25 μl of forward primer designed for the targetted region
 - 1.25 μl of reverse primer designed for the targetted region
-- 7 μl of nucleas-free water (non-DEPC-Treated)
-- Fill 96 well plate wells with 22 μl of PCR Mix
-- Add 3 μl of DNA from the 1:10 diluted DNA Isolation product.
-- Run in the PCR machine. 
+- 12.5 μl of Kappa PCR Enzyme
+
+Fill 96 well plate wells with 22 μl PCR Mix
+- Add 3 μl of DNA from the 1:10 diluted DNA Isolation product
+- Seal and mark the plate
+- Run in the PCR machine
 
 __________
 
 ### Sequencing Preperation
+
+Prepare 15 μl Sequencing Mix:
+- 13 μl of nucleas-free water (non-DEPC-Treated)
+- 2 μl of forward primer designed for the targetted region
+
+Fill 96 well plate wells with 15 μl Sequencing Mix
+- Add 3 μl of DNA from the PCR product
+- Seal and mark the plate and put into a zip bag with the order info
+- Place the plate in the Keck Sequencing Bucket 
 
 __________
 
