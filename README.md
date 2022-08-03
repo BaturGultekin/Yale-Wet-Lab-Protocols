@@ -20,9 +20,9 @@ __________
 - Paste the copied sequence part and submit
 - Click on the browser of the targetted chromosome
 - Zoom in to the mutation site at the end
-- View in DNA form, add 500 bases extra to both up and downstreams, all upper case and mask repeats to N. Get DNA, and copy the DNA seq.
+- View in DNA form, add preferably 500 or 700 bases extra to both up and downstreams, all upper case and mask repeats to N. Get DNA, and copy the DNA seq.
 - Go to: https://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi
-- Change the task to Primer_List, primer size (18,19,21), primer tm (57,58,60), number to return (20) and gc clamp (2)
+- Change the task to Primer_List, primer size (18,19,21), primer tm (57,58,60), number to return (20) and gc clamp (preferably 2 or 1)
 - Paste and submit the copied sequence
 - Select the left and right primers
 
