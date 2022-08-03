@@ -10,15 +10,6 @@ This is a repository for `Summer'19 - Yale Wet Lab Protocols`.
 
 __________
 
-### 2% Agarose Gel
-
-Measure 3g of agarose
-- Mix agarose powder with 150mL 1xTAE in a microwavable flask
-- Microwave for 1-3 min until the agarose is completely dissolved (but do not overboil the solution, as some of the buffer will evaporate and thus alter the final percentage of agarose in the gel.
-- Add ethidium bromide (EtBr) to a final concentration of approximately 0.3-0.6 μg/mL (usually about 2-3 μl of lab stock solution per 100 mL gel) or 1Oμl GreenGlow per 100mL TAE Agorose mix.
-
-__________
-
 ### Zebrafish Primer Prep Guide
 
 - Go to: https://zfin.org/
@@ -35,10 +26,42 @@ __________
 - Paste and submit the copied sequence
 - Select the left and right primers
 
+__________
+
+### 2% Agarose Gel
+
+Measure 3g of agarose
+- Mix agarose powder with 150mL 1xTAE in a microwavable flask
+- Microwave for 1-3 min until the agarose is completely dissolved (but do not overboil the solution, as some of the buffer will evaporate and thus alter the final percentage of agarose in the gel.
+- Add ethidium bromide (EtBr) to a final concentration of approximately 0.3-0.6 μg/mL (usually about 2-3 μl of lab stock solution per 100 mL gel) or 1Oμl GreenGlow per 100mL TAE Agorose mix.
 
 __________
 
-### PCR
+### DNA Isolation 1x
+
+Prepare 100 μl DNA Isolation Mix:
+- 88 μl of nucleas-free water (non-DEPC-Treated)
+- 10 μl of Kappa DNA Isolation Buffer
+- 2 μl of Kappa DNA Isolation Enzyme
+- Add the mix to 96 well plate which contains the tissue
+- Run in the PCR machine. 
+
+__________
+
+### PCR 1x
+
+Prepare 22 μl PCR Mix:
+- 12.5 μl of Kappa PCR Enzyme
+- 1.25 μl of forward primer designed for the targetted region
+- 1.25 μl of reverse primer designed for the targetted region
+- 7 μl of nucleas-free water (non-DEPC-Treated)
+- Fill 96 well plate wells with 22 μl of PCR Mix
+- Add 3 μl of DNA from the 1:10 diluted DNA Isolation product.
+- Run in the PCR machine. 
+
+__________
+
+### Sequencing Preperation
 
 __________
 
