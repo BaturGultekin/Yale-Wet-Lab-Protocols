@@ -8,9 +8,6 @@ This is a repository for `Summer'19 - Yale Wet Lab Protocols`.
 
 **E-mail:** baturgultekin@sabanciuniv.edu , batur.gultekin@yale.edu
 
-**Name:** [Mert Çerçi]()
-
-**E-mail:** hemertcerci@gmail.com , huseiynmert.cerci@yale.edu
 __________
 
 ### 2% Agarose Gel
